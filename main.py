@@ -8,7 +8,7 @@ at2 = 100
 # 1 - at
 # 2 - he
 # 3 - def
-print("Dark Souls 4.\n1 - атака\n2 - лечение\n3 - защита3")
+print("Dark Souls 4.\n1 - атака\n2 - лечение\n3 - защита")
 while True:
     move = int(input())
     print("\n")
